@@ -1,5 +1,3 @@
-package leetcode.slidewindow;
-
 /**
  * @author ikaruga
  * 2019/9/11-11:12 AM

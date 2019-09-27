@@ -1,5 +1,3 @@
-package leetcode.linkedlist;
-
 /**
  * @author ikaruga
  * 2019/9/11-10:31 AM
