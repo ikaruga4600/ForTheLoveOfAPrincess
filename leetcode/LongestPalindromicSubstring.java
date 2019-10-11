@@ -57,9 +57,4 @@ public class LongestPalindromicSubstring {
         return -1;
     }
 
-    public static void main(String[] args) {
-        System.out.println(
-                new LongestPalindromicSubstring().longestPalindrome("aaaa")
-        );
-    }
 }
